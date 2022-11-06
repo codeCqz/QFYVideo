@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/1.0.5-MySQL体系架构概述_batch" />
+      <excludeFolder url="file://$MODULE_DIR$/1.17-InnoDB架构_batch" />
+      <excludeFolder url="file://$MODULE_DIR$/01-开篇词_batch" />
+      <excludeFolder url="file://$MODULE_DIR$/2.01-索引本质与内存模型_batch" />
+      <excludeFolder url="file://$MODULE_DIR$/8.01-是否真的要分库" />
+      <excludeFolder url="file://$MODULE_DIR$/【MySQL架构原理与高性能实战】进阶课" />
+      <excludeFolder url="file://$MODULE_DIR$/8.02-分库维度的选择" />
+      <excludeFolder url="file://$MODULE_DIR$/8.03-全局唯一标识的生成" />
+      <excludeFolder url="file://$MODULE_DIR$/8.04-分库中间件选择" />
+      <excludeFolder url="file://$MODULE_DIR$/8.05-写服务高可用概述" />
+      <excludeFolder url="file://$MODULE_DIR$/8.06-如何保证随时可写入" />
+      <excludeFolder url="file://$MODULE_DIR$/【数据结构和算法】进阶课" />
+      <excludeFolder url="file://$MODULE_DIR$/【设计模式详解与实战】专题介绍2" />
+      <excludeFolder url="file://$MODULE_DIR$/1.0.1概述上" />
+      <excludeFolder url="file://$MODULE_DIR$/1.0.2概述下" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.1 线性表" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.2 链表" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.3链表节点及查找操作" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.4链表插入操作" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.5链表删除操作" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.6链表翻转" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.7链表环路判断" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.8链表多项式加法上" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1.9链表多项式加法下" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
